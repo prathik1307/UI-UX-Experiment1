@@ -31,6 +31,6 @@ To explore the Hands-on UI/UX Experiments.
 
 *Gained practical experience in building full-cycle design projects—from user research and wireframing to prototyping and testing.
 
-The overall outcome was a comprehensive, tool-based, user-centered approach to designing digital products that are not only visually appealing but also highly functional, accessible, and enjoyable to use.
+*The overall outcome was a comprehensive, tool-based, user-centered approach to designing digital products that are not only visually appealing but also highly functional, accessible, and enjoyable to use.
 ## Result:
 Built basic app screens and user flows, understood UI vs UX roles, used tools like Figma and Miro, and created interactive prototypes with user feedback.
