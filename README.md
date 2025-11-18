@@ -1,6 +1,6 @@
 # UI-UX-Experiment1
 
-## Aim:
+## Aim
 
 To explore the Hands-on UI/UX Experiments.
 
