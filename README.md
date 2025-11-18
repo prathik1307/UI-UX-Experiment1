@@ -5,13 +5,13 @@
 To explore the Hands-on UI/UX Experiments.
 
 ## Algorithm:
-
+```
 1.Learn UI/UX basics (design, flows, usability).
 2.Create UI mockups and UX user flows.
 3.nalyze UI vs UX using real apps (Airbnb, Duolingo).
 4.Redesign poor UI/UX examples.
 5.Use tools (Figma, Miro, Adobe XD, etc.) to design and test prototypes.
-
+```
 ## Output:
 *Developed a strong understanding of the core principles of UI (User Interface) and UX (User Experience), including visual hierarchy, interaction design, usability, and user satisfaction.
 
