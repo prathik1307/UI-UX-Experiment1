@@ -15,7 +15,7 @@ To explore the Hands-on UI/UX Experiments.
 ## Output:
 *Developed a strong understanding of the core principles of UI (User Interface) and UX (User Experience), including visual hierarchy, interaction design, usability, and user satisfaction.
 
-*Created and refined basic UI elements such as login screens using minimalist design principles, emphasizing visual clarity, button placement, and input field accessibility.
+*Created and refined basic UI elements such as login screens using  minimalist design principles, emphasizing visual clarity, button placement, and input field accessibility.
 
 *Successfully mapped user flows for common app interactions (e.g., app launch → login process), enhancing the ability to design seamless task completion journeys.
 
